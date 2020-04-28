@@ -1,0 +1,8 @@
+c:\Users\mos_k\labaLAST\ParkWiFi.Core\bin\Debug\netstandard2.0\ParkWiFi.Core.deps.json
+c:\Users\mos_k\labaLAST\ParkWiFi.Core\bin\Debug\netstandard2.0\ParkWiFi.Core.dll
+c:\Users\mos_k\labaLAST\ParkWiFi.Core\bin\Debug\netstandard2.0\ParkWiFi.Core.pdb
+c:\Users\mos_k\labaLAST\ParkWiFi.Core\obj\Debug\netstandard2.0\ParkWiFi.Core.csprojAssemblyReference.cache
+c:\Users\mos_k\labaLAST\ParkWiFi.Core\obj\Debug\netstandard2.0\ParkWiFi.Core.AssemblyInfoInputs.cache
+c:\Users\mos_k\labaLAST\ParkWiFi.Core\obj\Debug\netstandard2.0\ParkWiFi.Core.AssemblyInfo.cs
+c:\Users\mos_k\labaLAST\ParkWiFi.Core\obj\Debug\netstandard2.0\ParkWiFi.Core.dll
+c:\Users\mos_k\labaLAST\ParkWiFi.Core\obj\Debug\netstandard2.0\ParkWiFi.Core.pdb
